@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ujjwaltwanabasu
- *
- */
-module Basic {
-}
